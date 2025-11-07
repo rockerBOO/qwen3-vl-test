@@ -2,6 +2,13 @@
 
 A simple guide to get started with this project using UV.
 
+## Clone repository
+
+```
+git clone https://github.com/rockerBOO/qwen3-vl-test
+cd qwen3-vl-test
+```
+
 ## Installation
 
 Install UV using the official installer:
